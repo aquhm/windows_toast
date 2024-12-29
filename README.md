@@ -42,6 +42,7 @@ Windows 10 이상에서 사용할 수 있는 토스트 알림을 쉽게 구현�
    - 추가 라이브러리 디렉터리에 `lib` 경로 추가
    - 추가 종속성에 `Notification.lib` 추가
 
+## 사용 방법
 ### Unity에서 사용하기
 1. Unity 프로젝트의 `Assets/Plugins` 폴더에 `Notification.dll` 복사
 2. C# 래퍼 클래스 생성:
